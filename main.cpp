@@ -8,6 +8,11 @@ int f(int n)
     else return f(n-1)+2;;
 }
 
+long int potega (int p, int w)
+{
+
+}
+
 int main()
 {
     cout << f(3) << endl;
