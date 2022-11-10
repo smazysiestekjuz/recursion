@@ -17,5 +17,6 @@ long int potega (int p, int w)
 int main()
 {
     cout << f(3) << endl;
+    cout<<potega(3,4)<<endl;
     return 0;
 }
