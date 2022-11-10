@@ -10,7 +10,8 @@ int f(int n)
 
 long int potega (int p, int w)
 {
-
+    if (w==0) return 1;
+    else return p*potega(p,w-1);
 }
 
 int main()
