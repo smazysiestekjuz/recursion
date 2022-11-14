@@ -1,1 +1,1 @@
-Program whose task is to raise to power
+Program whose task is to raise to power. Finding successive terms of Fibonacci sequences using recursive function
