@@ -14,6 +14,11 @@ long int potega (int p, int w)
     else return p*potega(p,w-1);
 }
 
+long int fib(int n)
+{
+
+}
+
 int main()
 {
     cout << f(3) << endl;
