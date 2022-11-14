@@ -24,5 +24,7 @@ int main()
 {
     cout << f(3) << endl;
     cout<<potega(3,4)<<endl;
+    cout<<fib(6)<<endl;
+
     return 0;
 }
